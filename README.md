@@ -1,4 +1,7 @@
-# vr-study
+# vr-vue-pwa
+
+This is a simple VR Scene implemented with VueJS and PWA
+
 
 ## Project setup
 ```
