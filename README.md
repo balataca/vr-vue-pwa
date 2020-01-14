@@ -1,6 +1,6 @@
 # vr-vue-pwa
 
-This is a simple VR Scene implemented with VueJS and PWA
+This is a simple VR Scene implemented with AFRAME, VueJS and PWA
 
 
 ## Project setup
